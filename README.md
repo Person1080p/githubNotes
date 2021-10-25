@@ -1,4 +1,3 @@
-# githubNotes
 # Start By Creating a Repo on GitHub on GitHup Repo Page
 
 # Copy a GitHub Repo, and Begin Editing Locally

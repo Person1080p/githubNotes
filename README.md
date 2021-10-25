@@ -8,3 +8,5 @@
 - git commit -m "Message of Changes"
 # Update Master of Repo
 - git push
+# Sync Current Files to Master
+-git pull

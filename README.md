@@ -10,5 +10,12 @@
 - git push
 # Sync Current Files to Master
 - git pull
+# Create New Branch
+- git checkout -b "Branch Name"
+# Status of Branch
+- git branch
+# Status of git folder
+- git status
+----
 # Use github-cli
 - gh
